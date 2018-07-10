@@ -12,7 +12,7 @@ Affiliation:
 
 5. Max Planck ETH Center for Learning Systems, Tu ̈bingen, Germany, and Zu ̈rich, Switzerland.
 
-[PDF](https://drive.google.com/open?id=1NlneKmJKHWvFuJ8ZjgJdl4O_bAmEFy_q)
+[PDF](https://arxiv.org/abs/1703.01250)
 
 [動画](https://youtube.com/watch?v=oq9Qgq1Ipp8)
 
@@ -51,7 +51,7 @@ $\underset{\theta \in D,i \in (sim,exp)}{argmin}E[\Delta H(\theta)/ t_i]$
 ## 実験
 有名な倒立振子の問題を，ESとMF-ESを比較して行った．
 
-スクショ
+![スクショ](https://github.com/Yuchi713/paper_summary/blob/master/pic/Screenshot%20from%202018-07-08%2020-26-25.png)
 
 図5からMF-ESのほうが，コストが低いことがわかる．平均して33.23％コストが削減されたとのこと．さらに，ESと比べてかなり安定していることもわかる．
 図6から，実空間上での必要な実験の数も減っていることがわかる．ESと比べて，22.86％減となっている．
