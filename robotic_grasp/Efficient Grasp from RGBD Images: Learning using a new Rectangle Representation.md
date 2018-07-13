@@ -32,3 +32,7 @@ Yun Jiang, Stephen Moseson, and Ashutosh Saxena
 
 ## 議論
 特に言及されてはいないが，学習に用いたデータセットでは，正解の grasp rectangle が1から3個，不正解のものは5個しかラベル付されていない．本来把持位置はもっとあるべきであり，rectangle で表すより，ログとして表したほうが良いのではないか． 
+
+
+## date
+July 12th, 2018
