@@ -51,7 +51,7 @@ $\underset{\theta \in D,i \in (sim,exp)}{argmin}E[\Delta H(\theta)/ t_i]$
 ## 実験
 有名な倒立振子の問題を，ESとMF-ESを比較して行った．
 
-![スクショ](https://github.com/Yuchi713/paper_summary/blob/master/pic/Screenshot%20from%202018-07-08%2020-26-25.png)
+![スクショ](https://github.com/Yuchi713/paper_summary/blob/master/pic/Virtual%20vs.%20Real:%20Trading%20Off%20Simulations%20and%20Physical%20Experiments%20in%20Reinforcement%20Learning%20with%20Bayesian%20Optimization.png)
 
 図5からMF-ESのほうが，コストが低いことがわかる．平均して33.23％コストが削減されたとのこと．さらに，ESと比べてかなり安定していることもわかる．
 図6から，実空間上での必要な実験の数も減っていることがわかる．ESと比べて，22.86％減となっている．

@@ -10,7 +10,7 @@ Yun Jiang, Stephen Moseson, and Ashutosh Saxena
 
 ## 概要
 
-![スクショ](https://github.com/Yuchi713/paper_summary/blob/master/pic/Screenshot%20from%202018-07-12%2010-34-01.png)
+![スクショ](https://github.com/Yuchi713/paper_summary/blob/master/pic/Efficient%20Grasp%20from%20RGBD%20Images:%20Learning%20using%20a%20new%20Rectangle%20Representation.png)
 
 新しい7次元の把持位置の表現方法である"Grasp Rectangle" を導入した．この新たな表現方法を用いて，把持位置を推定し，実際にロボットに把持を行わせた．本研究では，RGBDイメージを用い，把持位置推定を2段階に分け，RGBDイメージとその2段階のアルゴリズムの有用性を実証した．
 
