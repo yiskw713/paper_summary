@@ -37,7 +37,9 @@ RNNを用いることで，過去の行動の結果を用いて，手と視覚�
 ## 検証
 ![スクショ](https://github.com/Yuchi713/paper_summary/blob/master/pic/Sim2Real%20View%20Invariant%20Visual%20Servoing%20by%20Recurrent%20Control1.png)
 
-上図は，recurrent control と reactive control の２つを，物体が２つの場合と3つの場合で，それぞれどれほど query の物体に近づくかを比較したものである．いずれの結果からも，recurrent control のほうが，物体の近くまでアームを動かすことができ，recurrent control の有用性が確かめられる．
+上図は，recurrent control と reactive control の２つを，物体が２つの場合と3つの場合で，それぞれどれほど query の物体に近づくかを比較したものである．いずれの結果からも，recurrent control のほうが，物体の近くまでアームを動かすことができ，recurrent control の有用性が確かめられる．  
+    
+
 
 ![スクショ](https://github.com/Yuchi713/paper_summary/blob/master/pic/Sim2Real%20View%20Invariant%20Visual%20Servoing%20by%20Recurrent%20Control4.png)
 
@@ -50,7 +52,7 @@ RNNを用いることで，過去の行動の結果を用いて，手と視覚�
 
 
 
-## 議論展望
+## 議論,展望
 * depthやステレオ画像を用いることで，精度向上が望める
 * より複雑な動作が生成可能になるか？
 * 実験では 2物体までしか行っていない．それ以上では精度は相当低そう 
