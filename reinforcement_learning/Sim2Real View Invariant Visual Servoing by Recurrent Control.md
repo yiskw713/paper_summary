@@ -13,7 +13,7 @@ affiliation: † University of Washington, ‡ Google Brain
 
 
 ## 提案手法
-[スクショ](../pic/Sim2Real View Invariant Visual Servoing by Recurrent Control2)
+![スクショ](../pic/Sim2Real View Invariant Visual Servoing by Recurrent Control2)
 
 
 ## 検証方法
