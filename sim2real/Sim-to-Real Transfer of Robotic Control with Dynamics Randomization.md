@@ -22,4 +22,7 @@ Xue Bin Peng<sup>1,2</sup>
 <br>
 ![](https://github.com/Yuchi713/paper_summary/blob/master/pic/Sim-to-Real%20Transfer%20of%20Robotic%20Control%20with%20Dynamics%20Randomization1.png)
 <br>
-上図は仮想空間上のみで学習させたロボットを，仮想空間と実空間上で動作させた場合の精度を表したものである．両空間においてそれほど大差はないことが確認できる．
+上図は，object pushing task において，仮想空間上のみで学習させたロボットを，仮想空間と実空間上で動作させた場合の精度を表したものである．両空間においてそれほど大差はないことが確認できる．
+
+## date
+July 18th, 2018
