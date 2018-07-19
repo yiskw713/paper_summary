@@ -15,11 +15,11 @@ Xue Bin Peng<sup>1,2</sup>
 
 
 ## 概要
-![]()
+![](https://github.com/Yuchi713/paper_summary/blob/master/pic/Sim-to-Real%20Transfer%20of%20Robotic%20Control%20with%20Dynamics%20Randomization2.png)
 
 シミュレーション上での学習は，低コストでデータを豊富に得られる点で有益であるが，実際は仮想空間と実空間との差異のために，仮想空間上で学習したモデルを，実空間に転移することが難しくなっている．そこで本研究では，学習中のシミュレーション上の dynamics (上図にあるような要素)をランダムに変更すること(Domain Randomization)で，実空間上での学習なしに実世界に対して汎化性能をもたせることを可能にしている．この手法をロボットが物体を押すタスクに応用し，実際のロボットだけで学習した場合と同程度のパフォーマンスができることを確認した．\
 <br>
 <br>
-![]()
+![](https://github.com/Yuchi713/paper_summary/blob/master/pic/Sim-to-Real%20Transfer%20of%20Robotic%20Control%20with%20Dynamics%20Randomization1.png)
 <br>
 上図は仮想空間上のみで学習させたロボットを，仮想空間と実空間上で動作させた場合の精度を表したものである．両空間においてそれほど大差はないことが確認できる．
