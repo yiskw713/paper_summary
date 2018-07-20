@@ -21,3 +21,7 @@ end-to-endな学習や，シミュレーション上で学習した方策を実�
 ![](https://github.com/yiskw713/paper_summary/blob/master/pic/Sim-to-Real%20Reinforcement%20Learning%20for%20Deformable%20Object%20Manipulation.png)
 <br>
 上図は，本論文における Domain Randomization の例．
+
+
+## date
+July 20, 2018

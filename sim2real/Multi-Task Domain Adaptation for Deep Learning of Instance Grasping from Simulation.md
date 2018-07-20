@@ -26,3 +26,6 @@ ICRA 2018
 ![](https://github.com/yiskw713/paper_summary/blob/master/pic/Multi-Task%20Domain%20Adaptation%20for%20Deep%20Learning%20of%20Instance%20Grasping%20from%20Simulation.png)
 <br>
 得られる物体を区別しない把持(上)とインスタンス把持(下)のサンプル
+
+## date
+July 20, 2018
