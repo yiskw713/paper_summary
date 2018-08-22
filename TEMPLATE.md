@@ -1,21 +1,21 @@
-## INFO
-### author
+# INFO
+## author
 
-### affiliation
+## affiliation
 
-### conference
+## conference
 
-### link
+## link
 [pdf]()
 
-## 概要
+# 概要
 
-## 提案手法
+# 提案手法
 
-## 検証
+# 検証
 
-## 新規性
+# 新規性
 
-## 議論，展望
+# 議論，展望
 
-## date
+# date
