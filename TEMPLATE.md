@@ -1,8 +1,4 @@
 # INFO
-## author
-
-## affiliation
-
 ## conference
 
 ## link
