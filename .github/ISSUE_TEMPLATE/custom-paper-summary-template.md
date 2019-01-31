@@ -9,7 +9,7 @@ about: Paper Summary
 
 ## affiliation
 
-## conference
+## conference or year
 
 ## link
 [pdf]()
