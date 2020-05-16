@@ -1,6 +1,9 @@
 ---
 name: Custom paper summary template
 about: Paper Summary
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -12,7 +15,8 @@ about: Paper Summary
 ## conference or year
 
 ## link
-[pdf]()
+[arXiv]()
+[実装]()
 
 # 概要
 
