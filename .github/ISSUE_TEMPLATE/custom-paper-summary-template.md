@@ -7,23 +7,17 @@ assignees: ''
 
 ---
 
-# INFO
-## author
-
-## affiliation
-
-## conference or year
-
-## link
-[arXiv]()
-[実装]()
-
 # 概要
 
-# 提案手法
+## 提案手法
 
-# 実験
+## 実験
 
-# Comment
+## Comment
 
-# date
+## Reference
+
+### link
+
+- [arXiv]()
+- [実装]()
